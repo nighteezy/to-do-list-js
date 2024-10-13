@@ -20,9 +20,11 @@
 ## Установка
 
 1. Склонируйте репозиторий:
-   git clone https://github.com/nighteezy/to-do-list.git
+   ```bash
+   git clone https://github.com/nighteezy/to-do-list-js.git
 
 2. Перейдите в директорию проекта:
-    cd to-do-list
+   ```bash
+    cd to-do-list-js
 
 3. Откройте файл index.html в вашем веб-браузере.
